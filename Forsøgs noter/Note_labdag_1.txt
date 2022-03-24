@@ -1,0 +1,10 @@
+Fejlkilder:
+	-	Dominerende:
+		-	Vibrationer fra vedkommende der holder slangen fast
+	-	Svagere:
+		-	Vibrationer fra snak og banken i bord og trampen på gulv
+
+Når vi måler delta n finder vi antallet af forskelle mellem bølgretop og dal. Dermed er der en lille afvigelse i starten og slutningen
+som er svær at tage højde for, da datasættet ikke nødvendigvis starter eller slutter i et ekstrema.
+
+Svært at lave oprdentlig interferens.
