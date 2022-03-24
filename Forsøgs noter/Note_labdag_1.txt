@@ -7,4 +7,12 @@ Fejlkilder:
 Når vi måler delta n finder vi antallet af forskelle mellem bølgretop og dal. Dermed er der en lille afvigelse i starten og slutningen
 som er svær at tage højde for, da datasættet ikke nødvendigvis starter eller slutter i et ekstrema.
 
+Denne usikkerhed bliver mindre for højre tryk, da vi måler på flere bølger og usikkerhederne har en mindre relativ betydning
+
 Svært at lave oprdentlig interferens.
+
+Usiklkerhed i måling af tryk og trykket falder lidt af sig selv med tiden.
+
+Længde af glasrør er 6.7 cm plus minus 0.1 cm.
+
+Bølgelængde af laserlys er 633 nm.
