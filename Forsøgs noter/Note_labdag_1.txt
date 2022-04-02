@@ -16,3 +16,7 @@ Usiklkerhed i måling af tryk og trykket falder lidt af sig selv med tiden.
 Længde af glasrør er 6.7 cm plus minus 0.1 cm.
 
 Bølgelængde af laserlys er 633 nm.
+
+NOTE TIL TEORETISK/ANDEN SAMMENLIGNING:
+Tjek linket for en værdi for n_{air}. P. Ciddor giver en værdi til sammenligning med den målte værdi for en given bølge længde
+https://refractiveindex.info/?shelf=other&book=air&page=Ciddor
